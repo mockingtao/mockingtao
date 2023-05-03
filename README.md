@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/mockingtao">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=MaTao;Algorithm +Engineer+%7C+B.CS+%7C+SaaS;MLOps+%7C+Supply+Chain+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=MaTao;Algorithm +Engineer+%7C+B.CS+%7C+SaaS;MLOps+%7C+Supply+Chain+%7c+CPFR+%7c+DTC" alt="Typing SVG" />
 </a>
 <br/>
 
